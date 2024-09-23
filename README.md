@@ -10,4 +10,4 @@ It’s important to keep in mind that this project is just to build and practice
 
 - what skills you will have demonstrated once you have completed it. 
 
-(You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) -->
+(You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) --> 
