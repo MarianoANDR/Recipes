@@ -3,6 +3,7 @@
     font-family: Lora, Courier, monospace;
     box-sizing: border-box;
     text-align: center;
+    border-radius: 10px;
 }
 
 a {
@@ -13,7 +14,7 @@ a {
 body {
     background-color: #333333;
     border: 5px solid #000000;
-    margin: 40px;
+    margin: 30px;
     padding: 50px;
 }    
 
