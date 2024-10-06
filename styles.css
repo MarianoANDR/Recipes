@@ -1,46 +1,51 @@
-
 * {
-    text-align: center;
     color: #20B2AA;
     font-family: Lora, Courier, monospace;
-    font-size: 30px;
+    box-sizing: border-box;
 }
 
 a {
-    font-size: 35px;
+    text-decoration: none;
 }
 
 body {
     background-color: #333333;
-}
+    border: 5px solid black;
+    margin: 50px 40px;
+    padding: 50px;
+}    
 
-h1 {
-    font-size: 50px;
-    text-decoration: underline;
-}
-
-h1,
-h2,
-h3 {
-    text-decoration: underline;
-    padding: 20px;
+li {
+    padding: 10px;
+    border: 4px solid black;
+    margin: 20px auto;
+    width: 400px;
 }
 
 ul {
     list-style-type: none;
-}
-
-.h1-img,
-.h2-p,
-.h3-ingr,
-.h3-steps {
-    margin: 70px;
+    font-size: 30px;
+    padding: 20px 0;
 }
 
 .recipes,
-.ulist {
-    margin: 150px;
+.lamb,
+.lasagna,
+.meatloaf {
+    border: 5px white solid;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
 }
+
+.ulist {
+    width: 450px; 
+    margin: 50px auto;
+    text-align: center;
+}
+
+
+
 
 
 
